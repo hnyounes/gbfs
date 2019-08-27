@@ -200,8 +200,9 @@ US,JUMP LA,"Los Angeles, CA",jump_la,https://jump.com/,https://la.jumpbikes.com/
 US,JUMP NYC,"NYC, NY",jump_nyc,https://jump.com/,https://nyc.jumpbikes.com/opendata/gbfs.json
 US,JUMP Providence,"Providence, RI",jump_providence,https://jump.com/,https://pvd.jumpbikes.com/opendata/gbfs.json
 US,JUMP Sacramento,"Sacramento, CA",jump_sacramento,https://jump.com/,https://sac.jumpbikes.com/opendata/gbfs.json
-US,JUMP San Diego,"San Diego, CA",jump_san_diego,https://jump.com,https://san.jumpbikes.com/opendata/gbfs.json
-US,JUMP SC,"Santa Cruz, CA",jump_sc,https://jump.com/,https://sc.jumpbikes.com/opendata/gbfs.json
+US,JUMP San Diego,"San Diego, CA",jump_san_diego_bike,https://gbfs.uber.com/v1/sdb/gbfs.json
+US,JUMP San Diego,"San Diego, CA",jump_san_diego_scooter,https://gbfs.uber.com/v1/sds/gbfs.json
+US,JUMP SC,"Santa Cruz, CA",jump_sc,https://jump.com/,https://gbfs.uber.com/v1/scb/gbfs.json
 US,JUMP Seattle,"Seattle, WA",jump_seattle,https://jump.com,https://sea.jumpbikes.com/opendata/gbfs.json
 US,JUMP SF,"San Francisco, CA",jump_sf,https://jump.com/,https://sf.jumpbikes.com/opendata/gbfs.json
 US,Kansas City B-cycle,"Kansas City, MO",bcycle_kc,https://kc.bcycle.com,https://gbfs.bcycle.com/bcycle_kc/gbfs.json
