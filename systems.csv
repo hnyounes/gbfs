@@ -156,6 +156,7 @@ US,Biki,"Honolulu, HI",go_biki,https://gobiki.org/,https://hon.publicbikesystem.
 US,Bird Chicago,"Chicago, IL",bird-chicago,https://www.bird.co,https://mds.bird.co/gbfs/chicago/gbfs.json
 US,Bishop Ranch BRiteBikes,"San Ramon, CA",bishop_ranch,http://britebikes.socialbicycles.com/,http://britebikes.socialbicycles.com/opendata/gbfs.json
 US,Bolt Chicago,"Chicago, IL",bolt_chi,https://www.micromobility.com,https://www.bolt.miami/bolt2/chi/gbfs/gbfs.json
+US,Bolt Washington DC, "Washington, DC",bolt_dc,https://www.bolt.miami/bolt2/dc/gbfs/en/free_bike_status.json
 US,Boise Green Bike,"Boise, ID",boise_greenbike,http://boise.greenbike.com/,http://boise.greenbike.com/opendata/gbfs.json
 US,Boulder B-cycle,"Boulder, CO",bcycle_boulder,https://boulder.bcycle.com,https://gbfs.bcycle.com/bcycle_boulder/gbfs.json
 US,Breeze Bike Share,"Santa Monica, CA",breeze_bikeshare,http://santamonicabikeshare.com/,http://santamonicabikeshare.com/opendata/gbfs.json
